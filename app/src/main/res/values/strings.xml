@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QC</string>
+    <string name="do_you_speak_nenglish">Do you speak \n English?</string>
+    <string name="good_evening">Good Evening</string>
+    <string name="hello">hello</string>
+    <string name="how_are_you">How are you</string>
+    <string name="i_live_in">I live in</string>
+    <string name="my_name_is">My name is</string>
+    <string name="please">Please</string>
+    <string name="welcome">Welcome</string>
+</resources>
